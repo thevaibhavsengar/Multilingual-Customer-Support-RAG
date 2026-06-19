@@ -222,7 +222,7 @@ Example:
 **Vaibhav Sengar**
 
 * GitHub: https://github.com/thevaibhavsengar
-* LinkedIn: linkedin.com/in/thevaibhavsengar
+* LinkedIn: https://linkedin.com/in/thevaibhavsengar
 
 ---
 
