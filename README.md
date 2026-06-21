@@ -6,6 +6,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) system that enables intellige
 <p align="center">
   <img src="rag.png" width="100%"/>
 </p>
+---
 ## 🚀 Features
 
 * 📄 Upload and process PDF documents
