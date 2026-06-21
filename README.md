@@ -1,4 +1,4 @@
-# AI-Powered Customer Support RAG Agent
+# AI-Powered Multilingual Customer Support RAG Agent
 
 An end-to-end Retrieval-Augmented Generation (RAG) system that enables intelligent customer support by answering questions from enterprise documents with citation-backed responses. The application leverages Google Gemini, LangChain, FAISS, FastAPI, and Streamlit to provide accurate, context-aware, and scalable document question-answering capabilities.
 
