@@ -2,6 +2,12 @@
 
 An end-to-end Retrieval-Augmented Generation (RAG) system that enables intelligent customer support by answering questions from enterprise documents with citation-backed responses. The application leverages Google Gemini, LangChain, FAISS, FastAPI, and Streamlit to provide accurate, context-aware, and scalable document question-answering capabilities.
 
+## 🖼️ Preview
+
+<p align="center">
+  <img src="rag.png" width="100%"/>
+</p>
+
 ## 🚀 Features
 
 * 📄 Upload and process PDF documents
@@ -172,16 +178,6 @@ Run the container:
 ```bash
 docker run -p 8501:8501 customer-support-rag-agent
 ```
-
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="rag.png" width="100%"/>
-</p>
-
-
 
 ---
 
